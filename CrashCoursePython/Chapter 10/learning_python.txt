@@ -1,0 +1,2 @@
+Python is a pretty cool language,
+but I probably forgot all my Java language now.
